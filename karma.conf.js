@@ -9,6 +9,7 @@ module.exports = function(config){
       'app/bower_components/angular-mocks/angular-mocks.js',
       'app/bower_components/angular-mocks/angular-mocks.js',
       'app/bower_components/angular-sanitize/angular-sanitize.js',
+      'bower_components/angular-bootstrap/ui-bootstrap-tpls.min.js',
       'app/assets/js/dialogs.min.js',
       'app/components/**/*.js',
       'app/dashboard/**/*.js',
